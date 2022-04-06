@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/ejezie/.dotnet/store/|arch|/|tfm|",
+      "/Users/ejezie/.nuget/packages"
+    ]
+  }
+}

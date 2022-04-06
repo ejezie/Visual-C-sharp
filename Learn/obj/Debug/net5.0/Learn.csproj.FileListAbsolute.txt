@@ -1,0 +1,15 @@
+/Users/ejezie/Projects/Learn/Learn/bin/Debug/net5.0/Learn.deps.json
+/Users/ejezie/Projects/Learn/Learn/bin/Debug/net5.0/Learn.runtimeconfig.json
+/Users/ejezie/Projects/Learn/Learn/bin/Debug/net5.0/Learn.runtimeconfig.dev.json
+/Users/ejezie/Projects/Learn/Learn/bin/Debug/net5.0/Learn.dll
+/Users/ejezie/Projects/Learn/Learn/bin/Debug/net5.0/ref/Learn.dll
+/Users/ejezie/Projects/Learn/Learn/bin/Debug/net5.0/Learn.pdb
+/Users/ejezie/Projects/Learn/Learn/obj/Debug/net5.0/Learn.csproj.AssemblyReference.cache
+/Users/ejezie/Projects/Learn/Learn/obj/Debug/net5.0/Learn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ejezie/Projects/Learn/Learn/obj/Debug/net5.0/Learn.AssemblyInfoInputs.cache
+/Users/ejezie/Projects/Learn/Learn/obj/Debug/net5.0/Learn.AssemblyInfo.cs
+/Users/ejezie/Projects/Learn/Learn/obj/Debug/net5.0/Learn.csproj.CoreCompileInputs.cache
+/Users/ejezie/Projects/Learn/Learn/obj/Debug/net5.0/Learn.dll
+/Users/ejezie/Projects/Learn/Learn/obj/Debug/net5.0/ref/Learn.dll
+/Users/ejezie/Projects/Learn/Learn/obj/Debug/net5.0/Learn.pdb
+/Users/ejezie/Projects/Learn/Learn/obj/Debug/net5.0/Learn.genruntimeconfig.cache
