@@ -7,6 +7,7 @@ namespace Learn
         static void Main(string[] args)
         {
             Console.WriteLine(FeetToInches(4));
+            Console.WriteLine(Test());
         }
 
         static int FeetToInches(int feet)
@@ -24,5 +25,10 @@ namespace Learn
             else
                 return "hahaha";
         }
+    }
+
+    class UnitConverter
+    {
+
     }
 }
