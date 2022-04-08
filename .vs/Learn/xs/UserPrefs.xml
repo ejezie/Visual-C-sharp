@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{AF00A0DE-5966-4190-9C85-716A62C41A4B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Learn/Program.cs">
     <Files>
-      <File FileName="Learn/Program.cs" Line="1" Column="1" />
+      <File FileName="Learn/Program.cs" Line="16" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Learn FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Learn PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
