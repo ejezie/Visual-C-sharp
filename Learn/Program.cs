@@ -10,21 +10,14 @@ namespace Learn
             //Console.WriteLine(Test());
         //}
 
-        //static int FeetToInches(int feet)
-        //{
-        //    int result = feet * 12;
+        static int FeetToInches(int feet)
+        {
+          int result = feet * 12;
 
-        //    return result;
-        //}
+         return result;
+        }
 
-        //static string Test()
-        //{
-        //    bool x = false;
-        //    if (x)
-        //        return "muhehe";
-        //    else
-        //        return "hahaha";
-        //}
+        
     }
 
     class UnitConverter
